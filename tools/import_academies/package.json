@@ -1,0 +1,12 @@
+{
+  "name": "alumalum-import-academies",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "firebase-admin": "^13.5.0"
+  }
+}

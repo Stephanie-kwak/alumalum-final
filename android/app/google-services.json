@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30827668589",
+    "project_id": "alumalum-demo",
+    "storage_bucket": "alumalum-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30827668589:android:e8d99d42a0867061928b64",
+        "android_client_info": {
+          "package_name": "com.alumalum.alumalum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZxbsR5V4LAWlYzbUzRpxAChKKi_E3r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
